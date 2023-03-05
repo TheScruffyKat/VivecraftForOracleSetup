@@ -27,7 +27,7 @@ Run the following commands:
 
 ```git config --global --unset core.autocrlf```
 
-```java -jar BuildTools.jar```
+```java -jar BuildTools.jar --rev 1.19.2```
 
 The last one may take some time.
 
